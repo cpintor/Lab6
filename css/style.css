@@ -32,6 +32,10 @@
     color: #fff;
 }
 
+#navbar-container #onpage {
+    text-decoration: underline overline;
+}
+
 #nagivation {
     background-color: blue;
     overflow: hidden;
