@@ -36,6 +36,23 @@
     text-decoration: underline overline;
 }
 
+#sidebar {
+    position: fixed;
+    background-color: red;
+    right: 0%;
+    height: 100%;
+    width: 20%;
+}
+
+#sidebar-container {
+    text-align: center;
+    display: block;
+}
+
+#sidebar-container ul {
+    list-style-type: none;
+}
+
 #nagivation {
     background-color: blue;
     overflow: hidden;
